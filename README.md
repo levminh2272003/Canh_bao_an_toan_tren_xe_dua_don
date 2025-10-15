@@ -90,4 +90,4 @@ Hệ thống sử dụng các công nghệ **IoT**, **Arduino**, **ESP32**, **c�
 - Hoàn thiện **tính năng định vị GPS** và hiển thị **lộ trình trên bản đồ**.  
 - Tích hợp **AI nhận diện khuôn mặt học sinh** để xác thực danh tính.  
 - Bổ sung cảnh báo **qua SMS, Telegram hoặc Email**.  
-- Thêm **camera giám sát trong xe** và **lưu trữ lịch sử hành trình**.  
+- Thêm **camera giám sát trong xe** và **lưu trữ lịch sử hành trình**.
